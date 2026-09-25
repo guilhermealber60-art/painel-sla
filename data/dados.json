@@ -1,0 +1,8 @@
+{
+ "version": 1,
+ "config": {
+  "modalidade": "Entrega Rápida",
+  "plataformas": ["99", "Uber"]
+ },
+ "days": {}
+}
