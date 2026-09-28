@@ -3,7 +3,6 @@
  "config": {
   "modalidade": "Entrega Rápida",
   "plataformas": [
-   "99",
    "Uber"
   ]
  },
@@ -137,6 +136,11 @@
    "sla": 91.2,
    "sep": 20,
    "ped": 825
+  },
+  "2026-09-27": {
+   "sla": 83.2,
+   "sep": 15,
+   "ped": 795
   }
  }
 }
