@@ -3,7 +3,8 @@
  "config": {
   "modalidade": "Entrega Rápida",
   "plataformas": [
-   "99"
+   "99",
+   "uber"
   ]
  },
  "days": {
